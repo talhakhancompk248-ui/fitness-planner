@@ -48,7 +48,7 @@ Here is a glimpse of the FitPlanner interface in action:
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** Modern HTML5, CSS3, JavaScript (ES6+)
+* **Frontend:**FLUTTER & DART
 * **Database & Auth:** Firebase Firestore & Firebase Authentication
 * **Styling:** Custom dark-themed UI with clean layouts
 
