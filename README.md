@@ -18,6 +18,12 @@ Here is a glimpse of the FitPlanner interface in action:
 
  |<img width="1299" height="877" alt="Screenshot 2026-05-23 185452" src="https://github.com/user-attachments/assets/6934fd9c-4f07-4982-b03f-71a168bd6105" />
  |<img width="1289" height="879" alt="Screenshot 2026-05-23 185518" src="https://github.com/user-attachments/assets/1ccebc7e-b95d-4647-89be-bc0bd8db35f4" />
+ <img width="1296" height="884" alt="Screenshot 2026-05-23 184921" src="https://github.com/user-attachments/assets/e3afe01d-388f-4315-b3a1-570ae3cbfffe" />
+ <img width="1281" height="882" alt="Screenshot 2026-05-23 184938" src="https://github.com/user-attachments/assets/dd92896d-73b6-44b1-ae44-672e4986c315" />
+ <img width="1287" height="876" alt="Screenshot 2026-05-23 184956" src="https://github.com/user-attachments/assets/1a4a25dc-525a-42b4-a042-044802a0a5bd" />
+
+
+
 
 
 | Dashboard & Tips | AI Workout Plan | AI Diet Planner |
