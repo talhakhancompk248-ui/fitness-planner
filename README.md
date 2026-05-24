@@ -48,15 +48,3 @@ Here is a glimpse of the FitPlanner interface in action:
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to set up FitPlanner locally:
-
-### Prerequisites
-Ensure you have Node.js installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/FitPlanner.git](https://github.com/YOUR_USERNAME/FitPlanner.git)
